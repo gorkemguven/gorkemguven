@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Görkem Güven
 
-🎓 I'm a 3rd-year Electrical and Electronics Engineering student at Muğla Sıtkı Koçman University.  
+🎓 I'm a 4rd-year Electrical and Electronics Engineering student at Muğla Sıtkı Koçman University.  
 🤖 I'm passionate about Artificial Intelligence and Machine Learning.  
 💡 I develop projects that integrate AI and ML into electrical and electronics systems.  
 🔧 I write code to solve real-world problems and improve my skills every day.
